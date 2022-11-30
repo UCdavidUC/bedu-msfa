@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Sunflower App</string>
+
+    <string name="maluspumila">Manzana</string>
+    <string name="betavulgaris">Betabel</string>
+    <string name="coriandrumsativum">Cilantro</string>
+    <string name="solanumlycopersicum">Jitomate</string>
+    <string name="perseaamericana">Aguacate</string>
+    <string name="pyruscommunis">Pera</string>
+    <string name="solanummelongena">Berenjena</string>
+    <string name="vitisvinifera">Uva</string>
+    <string name="mangiferaindica">Mango</string>
+    <string name="citrusxsinensis">Naranja</string>
+    <string name="helianthusannuus">Girasol</string>
+    <string name="citrulluslanatus">Sandía</string>
+    <string name="hibiscusrosasinensis">Hibiscus</string>
+    <string name="cypripediumreginae">Gran Zapatilla de Dama</string>
+    <string name="aquilegiacoerulea">Aquilegia</string>
+    <string name="magnoliadenudata">Magnolia Yulan</string>
+    <string name="bougainvilleaglabra">Buganvilla</string>
+
+    <string name="inventario">Inventario</string>
+    <string name="ayuda">Ayuda</string>
+</resources>
